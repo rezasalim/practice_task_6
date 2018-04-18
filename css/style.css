@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header start*/
+
+.header {
+    overflow: hidden min-height: 300px;
+    background-color: #01444C;
+}
+
+.header_top {
+    overflow: hidden;
+}
+
+.header_logo {
+    width: 15%;
+    min-height: 50px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: 150px;
+    margin-top: 15px
+}
+
+.header_menu {
+    width: 40%;
+    min-height: 50px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-top: 15px;
+    margin-right: 140px;
+}
+
+.header_slide {
+    overflow: hidden;
+    min-height: 220px;
+}
+
+.header_text {
+    width: 30%;
+    min-height: 180px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: 150px;
+    margin-top: 18px;
+}
+
+.haeder_image {
+    width: 40%;
+    min-height: 180px;
+    background-color: #C5CD78;
+    float: right;
+    margin-right: 140px;
+    margin-top: 18px;
+}
+
+/*header end*/
+
+/*content start*/
+
+.content {
+    overflow: hidden;
+    min-height: 500px;
+    background-color: #EAEAEA;
+}
+
+.main_content {
+    overflow: hidden;
+    min-height: 400px;
+}
+
+.main_content_top {
+    overflow: hidden;
+    min-height: 200px;
+
+}
+
+.main_content_top_box {
+    width: 25%;
+    min-height: 180px;
+    background-color: #5FA400;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+.main_content_top_box_header {
+    overflow: hidden;
+    min-height: 50px;
+}
+
+.main_content_top_box_logo {
+    width: 20%;
+    background-color: #FFFFFF;
+    min-height: 35px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+.main_content_top_box_name {
+    width: 60%;
+    min-height: 35px;
+    float: right;
+    background-color: #F4213A;
+    margin-right: 25px;
+    margin-top: 7px;
+
+}
+
+.main_content_top_box_content {
+    width: 80%;
+    min-height: 100px;
+    border: 1px solid white;
+    margin-left: 33px;
+}
+
+.main_content_top_box_button {
+    text-align: center;
+    margin-top: 4px;
+}
+
+.main_content_bottom {
+    overflow: hidden;
+    min-height: 200px;
+}
+
+.main_content_bottom_box {
+    overflow: hidden;
+    width: 25%;
+    min-height: 180px;
+    background-color: #0078C4;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+.main_content_bottom_box_header {
+    overflow: hidden;
+    min-height: 50px;
+}
+
+.main_content_bottom_box_logo {
+    width: 20%;
+    background-color: #FFFFFF;
+    min-height: 35px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+.main_content_bottom_box_name {
+    width: 60%;
+    min-height: 35px;
+    float: right;
+    background-color: #F4213A;
+    margin-right: 25px;
+    margin-top: 7px;
+
+}
+
+.main_content_bottom_box_content {
+    width: 80%;
+    min-height: 100px;
+    border: 1px solid white;
+    margin-left: 33px;
+}
+
+.main_content_bottom_box_button {
+    text-align: center;
+    margin-top: 4px;
+}
+
+.content_footer {
+    width: 100%;
+    min-height: 100px;
+    overflow: hidden;
+}
+
+.content_footer_left {
+    width: 50%;
+    min-height: 100px;
+    overflow: hidden;
+    float: left;
+    margin-left: 180px;
+}
+
+.content_footer_left_logo {
+    width: 10%;
+    min-height: 70px;
+    background-color: #000000;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.content_footer_left_text {
+    width: 85%;
+    min-height: 70px;
+    background-color: #0079F8;
+    float: right;
+    margin-top: 15px;
+}
+
+.content_footer_right {
+    width: 20%;
+    min-height: 100px;
+    float: right;
+    margin-right: 199px;
+}
+
+.content_footer_button {
+    text-align: center;
+    margin-top: 35px;
+
+}
+
+/*content end*/
+
+/*footer start*/
+
+.footer {
+    width: 100%;
+    min-height: 100px;
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.footer_nav {
+    width: 40%;
+    min-height: 70px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: 130px;
+    margin-top: 14px;
+}
+
+.footer_text {
+    width: 30%;
+    min-height: 70px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-top: 14px;
+    margin-right: 120px;
+}
+
+/*footer end*/
